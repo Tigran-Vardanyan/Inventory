@@ -762,8 +762,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 1305.1006, y: -583.4768}
-  m_SizeDelta: {x: 2500, y: 529.2}
+  m_AnchoredPosition: {x: 431.5, y: -113}
+  m_SizeDelta: {x: 783, y: 113}
   m_Pivot: {x: 0.5, y: 1}
 --- !u!114 &978537924
 MonoBehaviour:
@@ -825,7 +825,7 @@ MonoBehaviour:
   m_ChildForceExpandWidth: 1
   m_ChildForceExpandHeight: 1
   m_ChildControlWidth: 0
-  m_ChildControlHeight: 0
+  m_ChildControlHeight: 1
   m_ChildScaleWidth: 0
   m_ChildScaleHeight: 0
   m_ReverseArrangement: 0
@@ -1028,8 +1028,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 1305.1006, y: -282.69226}
-  m_SizeDelta: {x: 2500, y: 529.2}
+  m_AnchoredPosition: {x: 431.5, y: -56.5}
+  m_SizeDelta: {x: 783, y: 113}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1763159462
 MonoBehaviour:
@@ -1091,7 +1091,7 @@ MonoBehaviour:
   m_ChildForceExpandWidth: 1
   m_ChildForceExpandHeight: 1
   m_ChildControlWidth: 0
-  m_ChildControlHeight: 0
+  m_ChildControlHeight: 1
   m_ChildScaleWidth: 0
   m_ChildScaleHeight: 0
   m_ReverseArrangement: 0
@@ -1134,8 +1134,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 155.9165, y: -13.848755}
-  m_SizeDelta: {x: -1229.7988, y: -463.8464}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: -200.00002}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1793608897
 MonoBehaviour:
@@ -1202,16 +1202,16 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Padding:
-    m_Left: 0
-    m_Right: 0
+    m_Left: 40
+    m_Right: 40
     m_Top: 0
     m_Bottom: 0
   m_ChildAlignment: 4
   m_Spacing: 0
   m_ChildForceExpandWidth: 1
   m_ChildForceExpandHeight: 1
-  m_ChildControlWidth: 0
-  m_ChildControlHeight: 0
+  m_ChildControlWidth: 1
+  m_ChildControlHeight: 1
   m_ChildScaleWidth: 0
   m_ChildScaleHeight: 0
   m_ReverseArrangement: 0
@@ -1250,8 +1250,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 1305.1006, y: -1678.0613}
-  m_SizeDelta: {x: 2500, y: 529.2}
+  m_AnchoredPosition: {x: 431.5, y: -339}
+  m_SizeDelta: {x: 783, y: 113}
   m_Pivot: {x: 0.5, y: 0}
 --- !u!114 &1869654175
 MonoBehaviour:
@@ -1313,7 +1313,7 @@ MonoBehaviour:
   m_ChildForceExpandWidth: 1
   m_ChildForceExpandHeight: 1
   m_ChildControlWidth: 0
-  m_ChildControlHeight: 0
+  m_ChildControlHeight: 1
   m_ChildScaleWidth: 0
   m_ChildScaleHeight: 0
   m_ReverseArrangement: 0
